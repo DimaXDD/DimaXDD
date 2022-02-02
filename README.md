@@ -1,5 +1,6 @@
 <h3 align="center">
-  Welcome to Trubach Dmitry's profile!
+  Welcome to Trubach Dmitry's profile! <p align="right"> <img src="https://komarev.com/ghpvc/?username=DimaXDD" alt="DimaXDD's visitors"/> </p>
+</p>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
