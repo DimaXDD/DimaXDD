@@ -8,6 +8,7 @@
 
 [![GitHub](icons/github.png)](https://github.com/DimaXDD)
 [![Instagram](icons/instagram.png)](https://www.instagram.com/dima_xdd_/)
+[![VK](icons/vk.jpg)](https://vk.com/dimooon_xdd)
 
 **Currently working with:**
 
