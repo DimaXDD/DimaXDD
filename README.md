@@ -14,3 +14,4 @@
 <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
 <a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
+<a href="https://code.visualstudio.com/" title="Visual Studio"><img src="icons/vs.png" /></a>
