@@ -8,11 +8,14 @@
 
 [![GitHub](icons/github.png)](https://github.com/DimaXDD)
 [![Instagram](icons/instagram.png)](https://www.instagram.com/dima_xdd_/)
-[![VK](icons/vk.jpg)](https://vk.com/dimooon_xdd)
+[![VK](icons/vk.png)](https://vk.com/dimooon_xdd)
 
 **Currently working with:**
 
 <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
 <a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
+<a href="https://developer.mozilla.org/ru/docs/Learn/HTML" title="HTML"><img src="icons/html.png" /></a>
+<a href="https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/CSS_basics" title="CSS"><img src="icons/css.png" /></a>
+<a href="https://sass-scss.ru/guide/" title="Sass"><img src="icons/sass.png" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio"><img src="icons/vs.jpg" /></a>
+<a href="https://code.visualstudio.com/" title="Visual Studio"><img src="icons/vs.png" /></a>
