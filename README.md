@@ -27,7 +27,6 @@
 
 ### 💻 Software and tools
 <p>
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?style=flat-square&logo=adobe&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?style=flat-square&logo=git&logoColor=white"></a>
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000001.svg?style=flat-square&logo=github&logoColor=white"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white"></a>
