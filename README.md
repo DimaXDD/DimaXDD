@@ -15,7 +15,7 @@
 
 ## 🛠️ My favorite tools
 
-### 👨‍💻 Programming languages
+### 👨‍💻 I work with
 <p>
     <a href="https://github.com/search?q=user%3ADimaXDD+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?style=flat-square&logo=c-in-hexagon&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADimaXDD+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?style=flat-square&logo=cpp2&logoColor=white"></a>
