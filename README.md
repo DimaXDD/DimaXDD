@@ -7,6 +7,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Student%20of%20BSTU;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
+![GitHub followers](https://img.shields.io/github/followers/DimaXDD?label=Follow&style=social)
+
 ## Social Media
 
 [![GitHub](icons/github.png)](https://github.com/DimaXDD)
@@ -32,7 +34,6 @@
     <a href="https://visualstudio.microsoft.com/"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-8b00ff.svg?style=flat-square&logo=visual-studio&logoColor=white"></a>
   <a href="https://https://codepen.io/"><img alt="CodePen" src="https://img.shields.io/badge/CodePen-gray.svg?style=flat-square&logo=codepen&logoColor=white"></a>
  </p>
-    
 
 ## 📊 Github stats
 
