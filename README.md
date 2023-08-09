@@ -1,11 +1,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DimaXDD&label=Profile%20views&color=ff69b4&style=flat-square" alt="bxr1ng" /> </p>
 
-[![Instagram](icons/instagram.png)](https://www.instagram.com/dima_xdd_/)
-[![VK](icons/vk.png)](https://vk.com/dimooon_xdd)
-
 <h3 align="center">
   Hi, I'm Dmitry <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
 </h3>
+
+<div style="width:100%;display:flex;justify-content: center">       
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DimaXDD&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DimaXDD&show_icons=true&theme=radical)
+  
+</div>
 
 <!-- Typing SVG by DimaXDD - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
